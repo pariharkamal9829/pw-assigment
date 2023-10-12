@@ -1,0 +1,14 @@
+1.Backend Developer:
+
+A backend developer is a software engineer who specializes in building and maintaining the server-side of web applications and software systems. They work behind the scenes to ensure that everything runs smoothly and efficiently, enabling the frontend to interact with the server and the database
+
+2.UI vs. UX:
+
+User Interface (UI) and User Experience (UX) are related but distinct concepts in the design of digital products
+
+3.Frontend Developer:
+
+A frontend developer is a web developer who specializes in creating the user interface and client-side functionality of a website or web application. 
+
+
+
