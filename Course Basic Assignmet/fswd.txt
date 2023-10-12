@@ -1,0 +1,11 @@
+1. HTML (Hypertext Markup Language):
+
+HTML is a markup language used for creating the structure and content of web pages. It consists of a set of elements and tags that define the various parts of a webpage, such as headings, paragraphs, images, links, forms, and more. HTML is essential for structuring the content and providing the foundation for web pages. It tells web browsers how to render the content, ensuring that text is displayed as text, images as images, and links as clickable links.
+
+2. CSS (Cascading Style Sheets):
+
+CSS is a stylesheet language used to control the visual presentation and layout of web pages. It allows web designers to define the styling aspects of HTML elements, such as colors, fonts, spacing, positioning, and more. CSS separates the structure (HTML) from the presentation, enabling developers to create aesthetically pleasing and consistent designs across websites.
+
+3. The Emergence of JavaScript: JavaScript was introduced to enable interactivity and dynamic behavior on web pages, filling the gap left by HTML and CSS, which were primarily focused on structure and presentation. JavaScript allowed developers to create responsive forms, real-time updates, and interactive elements, enhancing the user experience on the web.
+
+
