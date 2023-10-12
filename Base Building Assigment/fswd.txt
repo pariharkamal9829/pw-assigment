@@ -1,0 +1,14 @@
+1.what is the internet?
+ans-  Internet  is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
+
+2.what is web browser?
+ans-The web browser is an application software to explore www (World Wide Web). It provides an interface between the server and the client and requests to the server for web documents and services
+
+3.what is browser engine?
+ans-The browser engine is to take the HTML, CSS and other code of a web page - the text you can see in the page source or open in a text editor, setting out layouts, page content, and styling - and convert it into what you actually see on screen.
+
+4. what is static site?
+ans-A static website is a website that serves pages using a fixed number of pre-built files composed of HTML, CSS, and JavaScript.
+
+5. what is dynamic site?
+ans-A dynamic website is a set of pages, the content of which changes depending on the visitors’ locations, past actions taken on the site, time zones, and more. In addition to HTML, CSS, and JavaScript.
